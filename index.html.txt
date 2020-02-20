@@ -7,5 +7,7 @@
 <li> git status - status trkushchego repozitory </li>
 <li> git add path to the file - add file for controle gita</li>
 <li> git commit -am "added new fail index.html" </li>
+<li> git push - otpravit na servac</li>
+<li> git pull - poluchit c servaca </li>
 </ul>
 </div>
