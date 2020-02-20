@@ -2,8 +2,10 @@
 <div> Im believe in Jesus Chryst </div>
 
 <div>
-< ul>
+<ul>
 <li> git clone  path to the repozitory </li>
 <li> git status - status trkushchego repozitory </li>
 <li> git add path to the file - add file for controle gita</li>
 <li> git commit -am "added new fail index.html" </li>
+</ul>
+</div>
